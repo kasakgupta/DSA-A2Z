@@ -1,42 +1,24 @@
 class Solution {
 public:
-    static const long long MOD = 1000000007;
-
-    long long modPow(long long a, long long b) {
-        long long res = 1;
-
-        while (b > 0) {
-            if (b & 1)
-                res = (res * a) % MOD;
-
-            a = (a * a) % MOD;
-            b >>= 1;
-        }
-
-        return res;
-    }
-
     int numberOfSets(int n, int k) {
-        int N = n + k - 1;
-        int R = 2 * k;
+        const int MOD = 1e9 + 7;
 
-        // factorials
-        vector<long long> fact(N + 1);
-        fact[0] = 1;
+        vector<vector<long long>> dp(n, vector<long long>(k + 1, 0));
 
-        for (int i = 1; i <= N; i++) {
-            fact[i] = (fact[i - 1] * i) % MOD;
+        for (int i = 0; i < n; i++) {
+            dp[i][0] = 1;
         }
 
-        // C(N, R) = fact[N] / (fact[R] * fact[N-R])
-        long long numerator = fact[N];
+        for (int j = 1; j <= k; j++) {
+            long long sum = 0;
 
-        long long denominator =
-            (fact[R] * fact[N - R]) % MOD;
+            for (int i = 1; i < n; i++) {
+                sum = (sum + dp[i - 1][j - 1]) % MOD;
 
-        // Modular inverse using Fermat's Little Theorem
-        long long inverse = modPow(denominator, MOD - 2);
+                dp[i][j] = (dp[i - 1][j] + sum) % MOD;
+            }
+        }
 
-        return (numerator * inverse) % MOD;
+        return dp[n - 1][k];
     }
 };
