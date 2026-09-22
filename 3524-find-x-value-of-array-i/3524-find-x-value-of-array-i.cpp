@@ -2,33 +2,38 @@ class Solution {
 public:
     vector<long long> resultArray(vector<int>& nums, int k) {
 
-        vector<long long> result(k, 0);
+        vector<long long> answer(k, 0);
+
+        // dp[r] = number of subarrays ending at the previous position
+        // whose product has remainder r when divided by k.
         vector<long long> dp(k, 0);
 
         for (int num : nums) {
 
-            vector<long long> next(k, 0);
+            vector<long long> newDp(k, 0);
 
-            int x = num % k;
-        
-            next[x]++;
+            int remainder = num % k;
 
-            for (int r = 0; r < k; r++) {
+            // Start a new subarray containing only the current number.
+            newDp[remainder]++;
 
-                int newRemainder = (r * x) % k;
+            // Extend every previous subarray by the current number.
+            for (int oldRemainder = 0; oldRemainder < k; oldRemainder++) {
 
-                next[newRemainder] += dp[r];
+                int newRemainder = (oldRemainder * remainder) % k;
+
+                newDp[newRemainder] += dp[oldRemainder];
             }
 
-            // Current dp update
-            dp = next;
+            // Move to the next position.
+            dp = newDp;
 
-            // Final answer
-            for (int r = 0; r < k; r++) {
-                result[r] += dp[r];
+            // Add all subarrays ending at the current position to the answer.
+            for (int remainder = 0; remainder < k; remainder++) {
+                answer[remainder] += dp[remainder];
             }
         }
 
-        return result;
+        return answer;
     }
 };
