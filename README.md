@@ -44,10 +44,12 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kasakgupta/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/kasakgupta/DSA-A2Z/tree/master/3524-find-x-value-of-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kasakgupta/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/kasakgupta/DSA-A2Z/tree/master/3524-find-x-value-of-array-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kasakgupta/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Array
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/kasakgupta/DSA-A2Z/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
