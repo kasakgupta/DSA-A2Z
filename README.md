@@ -10,6 +10,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kasakgupta/DSA-A2Z/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/0567-permutation-in-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kasakgupta/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kasakgupta/DSA-A2Z/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/0567-permutation-in-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kasakgupta/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,8 +60,14 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kasakgupta/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kasakgupta/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Array
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kasakgupta/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/kasakgupta/DSA-A2Z/tree/master/3524-find-x-value-of-array-i) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kasakgupta/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
