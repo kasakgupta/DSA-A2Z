@@ -10,12 +10,14 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kasakgupta/DSA-A2Z/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/0567-permutation-in-string) |
+| [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kasakgupta/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kasakgupta/DSA-A2Z/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/0567-permutation-in-string) |
+| [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kasakgupta/DSA-A2Z/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -77,8 +80,17 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/kasakgupta/DSA-A2Z/tree/master/0739-daily-temperatures) |
+| [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/kasakgupta/DSA-A2Z/tree/master/0739-daily-temperatures) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
