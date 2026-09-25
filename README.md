@@ -48,6 +48,7 @@
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/kasakgupta/DSA-A2Z/tree/master/0089-gray-code) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kasakgupta/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/kasakgupta/DSA-A2Z/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kasakgupta/DSA-A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -88,9 +89,14 @@
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/kasakgupta/DSA-A2Z/tree/master/0089-gray-code) |
 | [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/kasakgupta/DSA-A2Z/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
