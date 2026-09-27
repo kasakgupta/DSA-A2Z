@@ -12,12 +12,14 @@
 | [0567-permutation-in-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kasakgupta/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kasakgupta/DSA-A2Z/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/kasakgupta/DSA-A2Z/tree/master/0739-daily-temperatures) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kasakgupta/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/kasakgupta/DSA-A2Z/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kasakgupta/DSA-A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
