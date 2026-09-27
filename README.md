@@ -19,6 +19,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kasakgupta/DSA-A2Z/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sliding Window
 |  |
@@ -85,6 +86,7 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/kasakgupta/DSA-A2Z/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/kasakgupta/DSA-A2Z/tree/master/0089-gray-code) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
