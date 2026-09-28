@@ -85,6 +85,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/kasakgupta/DSA-A2Z/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/kasakgupta/DSA-A2Z/tree/master/0739-daily-temperatures) |
 | [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -111,4 +112,8 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/kasakgupta/DSA-A2Z/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
