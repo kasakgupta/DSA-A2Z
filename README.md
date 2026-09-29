@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kasakgupta/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kasakgupta/DSA-A2Z/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/kasakgupta/DSA-A2Z/tree/master/3524-find-x-value-of-array-i) |
 ## Combinatorics
 |  |
@@ -76,6 +77,7 @@
 | [0739-daily-temperatures](https://github.com/kasakgupta/DSA-A2Z/tree/master/0739-daily-temperatures) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kasakgupta/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kasakgupta/DSA-A2Z/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/kasakgupta/DSA-A2Z/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kasakgupta/DSA-A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -112,8 +114,13 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kasakgupta/DSA-A2Z/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kasakgupta/DSA-A2Z/tree/master/0155-min-stack) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kasakgupta/DSA-A2Z/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
