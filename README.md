@@ -20,6 +20,7 @@
 | [0020-valid-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/0301-remove-invalid-parentheses) |
 | [0567-permutation-in-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/0856-score-of-parentheses) |
@@ -45,6 +46,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kasakgupta/DSA-A2Z/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -117,6 +119,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/kasakgupta/DSA-A2Z/tree/master/0089-gray-code) |
+| [0301-remove-invalid-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
