@@ -30,6 +30,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kasakgupta/DSA-A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -161,4 +162,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/0678-valid-parenthesis-string) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
