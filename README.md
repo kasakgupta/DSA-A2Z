@@ -13,6 +13,7 @@
 | [1096-brace-expansion-ii](https://github.com/kasakgupta/DSA-A2Z/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kasakgupta/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3934-smallest-unique-subarray](https://github.com/kasakgupta/DSA-A2Z/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -96,10 +97,12 @@
 | [3411-maximum-subarray-with-equal-products](https://github.com/kasakgupta/DSA-A2Z/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/kasakgupta/DSA-A2Z/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kasakgupta/DSA-A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3934-smallest-unique-subarray](https://github.com/kasakgupta/DSA-A2Z/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kasakgupta/DSA-A2Z/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3934-smallest-unique-subarray](https://github.com/kasakgupta/DSA-A2Z/tree/master/3934-smallest-unique-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -177,4 +180,16 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kasakgupta/DSA-A2Z/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kasakgupta/DSA-A2Z/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kasakgupta/DSA-A2Z/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/kasakgupta/DSA-A2Z/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
