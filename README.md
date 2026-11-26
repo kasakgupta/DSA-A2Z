@@ -66,6 +66,7 @@
 | ------- |
 | [0089-gray-code](https://github.com/kasakgupta/DSA-A2Z/tree/master/0089-gray-code) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kasakgupta/DSA-A2Z/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3360-stone-removal-game](https://github.com/kasakgupta/DSA-A2Z/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kasakgupta/DSA-A2Z/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/kasakgupta/DSA-A2Z/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kasakgupta/DSA-A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/kasakgupta/DSA-A2Z/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/kasakgupta/DSA-A2Z/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
